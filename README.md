@@ -1,14 +1,4 @@
-For the "using_pop" portion of the test I get an error that states:
 
-“Failure/Error: expect(@continents.size).to eq(6)
-expected: 6
-got: 7”
-
-my code: 
-def using_pop(continents)
- continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
- continents.pop
-end
 # Introduction To Simple Array Manipulations
 
 ## Learning Goals
