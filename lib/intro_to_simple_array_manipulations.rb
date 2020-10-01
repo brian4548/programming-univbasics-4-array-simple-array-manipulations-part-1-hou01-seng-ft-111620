@@ -11,6 +11,7 @@ def using_unshift(array, string)
 end
 
 def using_pop(continents)
+  
  continents.pop
 end
 
